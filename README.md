@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @onlydarel
-- 👀 I’m interested in Data Science and Software Engineering
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Fullstack Development
+- I write clean organized code
+- 🌱 I’m currently learning Golang
 
 <!---
 onlydarel/onlydarel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
